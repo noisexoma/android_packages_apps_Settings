@@ -857,4 +857,10 @@
     <string name="app_ops_categories_media">Мультимедиа</string>
     <string name="app_ops_categories_messaging">Сообщения</string>
     <string name="app_ops_categories_personal">Личные данные</string>
+    <string name="expanded_desktop_system_bars_visibility">Отключить на экране блокировки</string>
+    <string name="expanded_desktop_system_bars_visibility_summary">Показывать строку состояния и панель навигации на экране блокировки в расширеном режиме рабочего стола</string>
+    <string name="edge_gesture_service_title">Блокировать действия жестов</string>
+    <string name="edge_gesture_service_summary">Не отправлять действия жестов на панели навигации и строке состояния в приложения.</string>
+    <string name="disable_navkeys_title">Включить экранную панель навигации</string>
+    <string name="disable_navkeys_summary">Включить экранную панель навигации и отключить аппаратные кнопки</string>
 </resources>
